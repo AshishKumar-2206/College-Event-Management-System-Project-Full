@@ -1,0 +1,3 @@
+@echo off
+java -cp ".;mysql-connector-j-9.6.0\mysql-connector-j-9.6.0\mysql-connector-j-9.6.0.jar" Main
+pause.
